@@ -1,9 +1,12 @@
-#logo img {
-	width: 250px;
-	height: 179px;
-	
+.left-icons ul {
+	display: inline;
+	margin-left: 3px;
+	margin-left: 17px;
 }
 
-body {
-	background-color: #ffffff;
+.middle ul img{
+	height: auto;
+	display: inline-block;
+	margin-top: 14px;
+	margin-left: 44px;
 }
